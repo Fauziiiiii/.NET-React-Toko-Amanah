@@ -64,7 +64,7 @@ function UserEdit() {
         <div className="card">
             <div className="container">
                 <div className="Titel">
-                    Update data User Tes Git Pull
+                    Update data User tes git pull uwoeeee
                 </div>
                 <div className="conten">
                     <form onSubmit={handleSubmit}>

@@ -1,0 +1,31 @@
+body {
+    background-color: #dadada;
+}
+
+.card {
+    margin-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
+    background-color: #ffffff;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.container {
+    padding: 12px 16px;
+}
+.Titel {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: #303030;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.content {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    color: #303030;
+
+}

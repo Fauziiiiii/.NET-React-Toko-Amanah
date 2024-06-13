@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+body {
+  font-family: Helvetica, sans-serif;
+  background-color: #f4f4f4;
+}
+
+a {
+  color: #fff;
+}
+
+.app-header {
+  width: 100%;
+  height: auto;
+}
+
+.app-content {
+  padding: 50px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
